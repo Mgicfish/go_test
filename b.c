@@ -1,10 +1,6 @@
 
 int main(int argc, char *argv[])
 {
-<<<<<<< Updated upstream
-	99999
-=======
-99999
->>>>>>> Stashed changes
+	11111
 	return 0;
 }
